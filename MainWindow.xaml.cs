@@ -24,7 +24,7 @@ namespace DisplayDate
 
         private void MainWindow_Loaded(object sender, RoutedEventArgs e)
         {
-            DateLabel.Content = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+            DateLabel.Content = DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss");
         }
     }
 }

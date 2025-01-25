@@ -5,15 +5,15 @@ winexe
 C#
 .cs
 C:\Git\DisplayDate\obj\Debug\net8.0-windows\
-DisplayDate
+DisplayDate_rrcyze0h_wpftmp
 none
 false
-TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+TRACE;RELEASE;NET;NET8_0;NETCOREAPP
 C:\Git\DisplayDate\App.xaml
 11407045341
 
-4-1386388037
-198-556154604
+61103163731
+396-1112309208
 MainWindow.xaml;
 
 True
