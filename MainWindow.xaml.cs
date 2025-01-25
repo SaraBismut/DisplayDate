@@ -19,6 +19,12 @@ namespace DisplayDate
         public MainWindow()
         {
             InitializeComponent();
+            Loaded += MainWindow_Loaded; 
+        }
+
+        private void MainWindow_Loaded(object sender, RoutedEventArgs e)
+        {
+            DateLabel.Content = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
         }
     }
 }
