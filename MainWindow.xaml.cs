@@ -16,6 +16,7 @@ namespace DisplayDate
     /// </summary>
     public partial class MainWindow : Window
     {
+        int x = 5;
         public MainWindow()
         {
             InitializeComponent();
